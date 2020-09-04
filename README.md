@@ -11,3 +11,10 @@ This source code includes all computational steps, except for the adaptive tone 
 Executing the file *mIFDH_demo.m* in **MATLAB R2019a** to view the hazy-dehazed results side-by-side.
 
 ## Qualitative results
+![First](/results/more_results_1.jpg)
+![Second](/results/more_results_2.jpg)
+![Third](/results/more_results_3.jpg)
+![Fourth](/results/more_results_4.jpg)
+![Fifth](/results/more_results_5.jpg)
+![Sixth](/results/more_results_6.jpg)
+![Seventh](/results/more_results_7.jpg)
