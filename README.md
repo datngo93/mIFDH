@@ -24,4 +24,5 @@ Executing the file *mIFDH_demo.m* in **MATLAB R2019a** to view the hazy-dehazed 
 
 ## Reference
 In any publication related to the use of the source code, you are kindly requested to cite the following reference:
+
 [Ngo, D.; Lee, S.; Nguyen, Q.-H.; Ngo, T.M.; Lee, G.-D.; Kang, B. Single Image Haze Removal from Image Enhancement Perspective for Real-Time Vision-Based Systems. Sensors 2020, 20, 5170.](https://www.mdpi.com/1424-8220/20/18/5170)
